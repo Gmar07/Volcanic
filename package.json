@@ -1,0 +1,26 @@
+{
+  "name": "volcanic",
+  "version": "1.0.0",
+  "description": "Pickup ordering app for Volcanic Sushi & Sake",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "fs-extra": "^11.3.2",
+    "jsonwebtoken": "^9.0.3",
+    "next": "^16.0.8",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1",
+    "stripe": "^20.0.0",
+    "uuid": "^13.0.0"
+  }
+}
