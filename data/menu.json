@@ -1,0 +1,26 @@
+[
+  {
+    "id": "roll-dragon",
+    "name": "Dragon Roll",
+    "description": "Shrimp tempura, cucumber, avocado, eel sauce",
+    "price": 15.5,
+    "category": "Special Rolls",
+    "available": true
+  },
+  {
+    "id": "nigiri-salmon",
+    "name": "Salmon Nigiri (2pc)",
+    "description": "Fresh Atlantic salmon over sushi rice",
+    "price": 6,
+    "category": "Nigiri",
+    "available": true
+  },
+  {
+    "id": "bowl-teriyaki",
+    "name": "Chicken Teriyaki Bowl",
+    "description": "Grilled chicken, steamed vegetables, house teriyaki glaze",
+    "price": 14,
+    "category": "Bowls",
+    "available": true
+  }
+]

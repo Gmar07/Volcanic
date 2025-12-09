@@ -1,0 +1,7 @@
+node_modules
+.next
+.env
+.DS_Store
+data/users.json
+data/favorites.json
+data/paymentMethods.json
